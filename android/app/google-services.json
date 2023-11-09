@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755114812620",
+    "project_id": "captone1-3fba1",
+    "storage_bucket": "captone1-3fba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755114812620:android:23237335674d216fe8ce69",
+        "android_client_info": {
+          "package_name": "com.example.captone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755114812620-dusbe05amkpntsdbdgo10din98ig4k2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFLewpr6VKFXhgJ9Q1hOx4LcT3_XHgq8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755114812620-dusbe05amkpntsdbdgo10din98ig4k2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
